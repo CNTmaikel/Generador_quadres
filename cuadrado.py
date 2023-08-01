@@ -1,6 +1,5 @@
 import time
 import os
-from tqdm.auto import tqdm
 
 os.system("clear")
 
