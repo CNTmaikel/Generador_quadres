@@ -3,7 +3,7 @@
 
 Aquest es senzillament un generador de quadrilaters.
 
-Un senzill projecte el qual ens introdueix als principis de les interfícies gràfiques
+Un senzill projecte el qual ens introdueix als principis de les interfícies gràfiques.
 
 
 
@@ -17,7 +17,7 @@ Clonarem el projecte al nostre ordinador:
 ```bash
   ~$ git clone https://github.com/Miquellama/Generador_quadrilaters.git
 ```
-## Executar l'arxiu
+## Executar l'arxiu.
 
 Per executar l'arxiu farem us de les següents ordres:
 
@@ -29,12 +29,7 @@ Per executar l'arxiu farem us de les següents ordres:
   ~$ python3 cuadrado.py
 
 ```
-Finalment s'executara el programa
-# Generador de quadrilaters
-
-Aquest es senzillament un generador de quadrilaters.
-
-Un senzill projecte el qual ens introdueix als principis de les interfícies gràfiques
+Finalment s'executara el programa.
 
 # Imatges del programa
 
