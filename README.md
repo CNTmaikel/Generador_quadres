@@ -1,7 +1,7 @@
 
-# Generador de quadrilaters
+# Generador de quadres
 
-Aquest es senzillament un generador de quadrilaters.
+Aquest es senzillament un generador de quadres.
 
 Un senzill projecte el qual ens introdueix als principis de les interfícies gràfiques.
 
@@ -15,7 +15,7 @@ Un senzill projecte el qual ens introdueix als principis de les interfícies gr�
 Clonarem el projecte al nostre ordinador:
 
 ```bash
-  ~$ git clone https://github.com/Miquellama/Generador_quadrilaters.git
+  ~$ git clone https://github.com/Miquellama/Generador_quadres.git
 ```
 ## Executar l'arxiu.
 
@@ -33,9 +33,6 @@ Finalment s'executara el programa.
 
 ## Imatges del programa
 
-![Inicio](https://github.com/Miquellama/Generador_quadrilaters/assets/54858840/e94a6aa1-638f-4b6c-ad6a-353ef34173a9)
-
-![segundo](https://github.com/Miquellama/Generador_quadrilaters/assets/54858840/b67dd852-1f8d-4d6d-8c9e-d484912b5f3f)
 
 
 
