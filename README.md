@@ -33,9 +33,9 @@ Finalment s'executara el programa.
 
 # Imatges del programa
 
-![](https://raw.githubusercontent.com/Miquellama/Imagenes/main/Inicio.png)
+![Inicio](https://github.com/Miquellama/Generador_quadrilaters/assets/54858840/e94a6aa1-638f-4b6c-ad6a-353ef34173a9)
 
-![](https://raw.githubusercontent.com/Miquellama/Imagenes/main/segundo.png)
+![segundo](https://github.com/Miquellama/Generador_quadrilaters/assets/54858840/b67dd852-1f8d-4d6d-8c9e-d484912b5f3f)
 
 
 
