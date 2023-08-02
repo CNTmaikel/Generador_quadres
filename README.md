@@ -15,7 +15,7 @@ Un senzill projecte el qual ens introdueix als principis de les interf√≠cies gr√
 Clonarem el projecte al nostre ordinador:
 
 ```bash
-  ~$ git clone https://github.com/Miquellama/Generador_quadres.git
+  ~$ git clone https://github.com/CNTmaikel/Generador_quadres.git
 ```
 ## Executar l'arxiu.
 
