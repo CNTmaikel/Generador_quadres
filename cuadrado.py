@@ -1,21 +1,15 @@
 import time
 import os
 
-def borrarPantalla():
-    if os.name == "posix":
-        os.system ("clear")
-    elif os.name == "ce" or os.name == "nt" or os.name == "dos":
-        os.system ("cls")
-
-borrarPantalla()
+os.system("clear")
 
 print("")
-print("---------------------------Generador de quadrilaters---------------------------")
+print("---------------------------Generador de quadres---------------------------")
 print("")
-print("Hola, benvingut al programa de creació de quadriaters :D")
+print("Hola, benvingut al programa de creació de quadres :D")
 print("")
 print("--------------------------------Instruccions--------------------------------")
-print("Hauràs d'introduir un valor per l'altura i la llargada del quadrilater")
+print("Hauràs d'introduir un valor per l'altura i la llargada del quadre")
 print("IMPORTANT tingues en compte no posar ningun caracter que no sigui un nombre")
 print("En aquest cas el prgrama fallara i s'haurà de reiniciar")
 print("")
@@ -23,8 +17,8 @@ print("--------------------------------Instruccions-----------------------------
 print("")
 print("Perfavor, premeu intro per continuar")
 print("")
-input("---------------------------Generador de quadrilaters---------------------------")
-borrarPantalla()
+input("---------------------------Generador de quadres---------------------------")
+os.system("clear")
 
 def programa():
     altura = int(input("--> Defineix l'altura: "))
@@ -48,10 +42,10 @@ def programa():
     def reinicio():
         reiniciar = input("Desitja continuar? [Y/n]: ")
         if reiniciar == "Y":
-            borrarPantalla()
+            os.system("clear")
             programa()
         elif reiniciar == "y":
-            borrarPantalla()
+            os.system("clear")
             programa()
         elif reiniciar == "n":
             print("")
