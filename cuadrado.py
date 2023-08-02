@@ -1,7 +1,7 @@
 import time
 import os
 
-def borrarPantalla(): #Definimos la función estableciendo el nombre que queramos
+def borrarPantalla():
     if os.name == "posix":
        os.system ("clear")
     elif os.name == "ce" or os.name == "nt" or os.name == "dos":
