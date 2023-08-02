@@ -31,7 +31,7 @@ Per executar l'arxiu farem us de les següents ordres:
 ```
 Finalment s'executara el programa.
 
-# Imatges del programa
+## Imatges del programa
 
 ![Inicio](https://github.com/Miquellama/Generador_quadrilaters/assets/54858840/e94a6aa1-638f-4b6c-ad6a-353ef34173a9)
 
