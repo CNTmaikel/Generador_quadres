@@ -1,7 +1,13 @@
 import time
 import os
 
-os.system("clear")
+def borrarPantalla(): #Definimos la función estableciendo el nombre que queramos
+    if os.name == "posix":
+       os.system ("clear")
+    elif os.name == "ce" or os.name == "nt" or os.name == "dos":
+       os.system ("cls")
+
+borrarPantalla()
 
 print("")
 print("---------------------------Generador de quadres---------------------------")
@@ -18,7 +24,7 @@ print("")
 print("Perfavor, premeu intro per continuar")
 print("")
 input("---------------------------Generador de quadres---------------------------")
-os.system("clear")
+borrarPantalla()
 
 def programa():
     altura = int(input("--> Defineix l'altura: "))
@@ -42,10 +48,10 @@ def programa():
     def reinicio():
         reiniciar = input("Desitja continuar? [Y/n]: ")
         if reiniciar == "Y":
-            os.system("clear")
+            borrarPantalla()
             programa()
         elif reiniciar == "y":
-            os.system("clear")
+            borrarPantalla()
             programa()
         elif reiniciar == "n":
             print("")
